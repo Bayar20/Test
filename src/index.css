@@ -5,6 +5,10 @@ body {
     justify-content: center;
 }
 
+.App {
+  text-align: center;
+}
+
 ol, ul {
   padding-left: 30px;
 }
